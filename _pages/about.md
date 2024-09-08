@@ -21,7 +21,7 @@ Yefeng Zheng \
 Arxiv, 2024 \
 *Research Key Words*: Multimodel Pre-training, Multimodal Large Language Model, Computer Vision, Image Assessment \
 [[PDF](https://arxiv.org/pdf/2406.01069)]
-[[Code](https://github.com/zht8506/UniQA))]
+[[Code](https://github.com/zht8506/UniQA)]
 
 - **UniHead: Unifying Multi-Perception for Detection Heads** \
 **Hantao Zhou**, Rui Yang, Yachao Zhang, Haoran Duan, Yawen Huang, Runze Hu, Xiu Li,
@@ -29,14 +29,14 @@ Yefeng Zheng \
 IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024 \
 *Research Key Words*: Computer Vision, Object Detection, Vision Transformer \
 [[PDF](https://arxiv.org/pdf/2309.13242)]
-[[Code](https://github.com/zht8506/UniHead))]
+[[Code](https://github.com/zht8506/UniHead)]
 
 - **Video Object Segmentation with Dynamic Query Modulation** \
 **Hantao Zhou**, Runze Hu, Xiu Li\
 IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024 \
 *Research Key Words*: Computer Vision, Video Object Detection \
 [[PDF](https://arxiv.org/pdf/2403.11529)]
-[[Code](https://github.com/zht8506/QMVOS))]
+[[Code](https://github.com/zht8506/QMVOS)]
 
 - **ETDNet: Efficient Transformer-Based Detection Network for Surface Defect Detection** \
 **Hantao Zhou**, Rui Yang, Runze Hu, Chang Shu, Xiaochu Tang, Xiu Li \
