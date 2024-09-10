@@ -33,7 +33,7 @@ IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024 \
 
 - **Video Object Segmentation with Dynamic Query Modulation** \
 **Hantao Zhou**, Runze Hu, Xiu Li\
-IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024 \
+International Conference on Multimedia and Expo (ICME), 2024 \
 *Research Key Words*: Computer Vision, Video Object Detection \
 [[PDF](https://arxiv.org/pdf/2403.11529)]
 [[Code](https://github.com/zht8506/QMVOS)]
