@@ -16,8 +16,7 @@ My research interests lie in multimodal large language model (MLLM), computer vi
 # 📝 Publications
 
 - **UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment** \
-**Hantao Zhou**, Rui Yang, Yachao Zhang, Haoran Duan, Yawen Huang, Runze Hu, Xiu Li,
-Yefeng Zheng \
+**Hantao Zhou**, Longxiang Tang, Rui Yang, Guanyi Qin, Yan Zhang, Runze Hu, Xiu Li \
 Arxiv, 2024 \
 *Research Key Words*: Multimodel Pre-training, Multimodal Large Language Model, Computer Vision, Image Assessment \
 [[PDF](https://arxiv.org/pdf/2406.01069)]
