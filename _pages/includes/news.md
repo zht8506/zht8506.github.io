@@ -1,6 +1,9 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.03*: One paper about multimodal learning is accepted by ECCV 2024.
+- *2024.05*: I join Baidu ERNIE, working on multimodal large language models.
+- *2024.05*: One paper about object detection is accepted by IEEE TNNLS.
+- *2024.03*: One paper about video segmentation is accepted by ICME 2024.
+- *2024.03*: I join Tencent Youtu, working on multimodal large language models.
+- *2024.10*: I join DJI Automotive, working on multimodal pre-training for autonomous driving.
+- *2023.08*: One paper about defect detection is accepted by IEEE TIM.
+- *2023.03*: I join Tencent, working on AIGC model pre-training.
