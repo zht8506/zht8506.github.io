@@ -25,8 +25,8 @@
   <div class='paper-box-text' style="width:90%; float:left;">
 
   <strong>Tencent Youtu, 2024.03 - 2024.05, Shenzhen.</strong> <br/>
-  - *Topic*: Multimodal Large Language Model Pre-training <br/>
-  - *Job Description*: I work on Multimodal Large Language Model based on **discrete coding**.
+  - <em>Topic</em>: Multimodal Large Language Model Pre-training <br/>
+  - <em>Job Description</em>: I work on Multimodal Large Language Model based on **discrete coding**.
 </div>
 </div>
 
@@ -39,8 +39,8 @@
   <div class='paper-box-text' style="width:90%; float:left;">
 
   <strong>DJI Automotive, 2023.10 - 2024.02, Shenzhen.</strong> <br/>
-  - *Topic*: Multimodal Image-Text Pre-training <br/>
-  - *Job Description*: I develop a **image-text retrieval system** for DJI Automotive. Specifically, I construct a traffic image-text dataset and enhance the existing multimodal model's performance on traffic scene using traffic image-text pre-traing. I also leverage LLM (Large Language Model) and Diffusion Model to generate synthetic data to further enhance the model's performance.
+  - <em>Topic</em>: Multimodal Image-Text Pre-training <br/>
+  - <em>Job Description</em>: I develop a **image-text retrieval system** for DJI Automotive. Specifically, I construct a traffic image-text dataset and enhance the existing multimodal model's performance on traffic scene using traffic image-text pre-traing. I also leverage LLM (Large Language Model) and Diffusion Model to generate synthetic data to further enhance the model's performance.
 </div>
 </div>
 
@@ -51,8 +51,8 @@
   <div class='paper-box-text' style="width:90%; float:left;">
 
   <strong>Tencent, 2023.03 - 2023.07, Shenzhen.</strong> <br/>
-  - *Topic*: Text to Image Generation (AIGC) <br/>
-  - *Job Description*: I employed various techniques to improve the performance of the AIGC model, such as image aesthetics assessment and human keypoint detection.
+  - <em>Topic</em>: Text to Image Generation (AIGC) <br/>
+  - <em>Job Description</em>: I employed various techniques to improve the performance of the AIGC model, such as image aesthetics assessment and human keypoint detection.
 </div>
 </div>
 
