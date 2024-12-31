@@ -11,7 +11,7 @@
 [**[Paper]**](https://arxiv.org/pdf/2406.01069) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Code&Dataset]**](https://github.com/zht8506/UniQA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- UniQA is a foundational multimodal image assessment model that supports image quality and aesthetic assessment tasks and generalizes well to natural images, AIGC images, and medical images.
+- UniQA is a foundational multimodal image assessment model that supports image quality and aesthetic assessment tasks and generalizes well to natural images, AIGC images, and medical images, etc.
 - We generate multimodal dataset via multimodal large language model and pretrain CLIP on authentic and synthetic data.
 </div>
 </div>
@@ -20,7 +20,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models \\
+**Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models** \\
 Longxiang Tang, Zhuotao Tian, Kai Li, Chunming He, **Hantao Zhou**, Hengshuang Zhao, Xiu Li, Jiaya Jia
 
 [**[Paper]**](https://arxiv.org/pdf/2407.05342) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -31,15 +31,16 @@ Longxiang Tang, Zhuotao Tian, Kai Li, Chunming He, **Hantao Zhou**, Hengshuang Z
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
+**SemanticAC: Semantics-Assisted Framework for Audio Classification** \\
+Yicheng Xiao, Yue Ma, Shuyan Li, **Hantao Zhou**, Ran Liao, Xiu Li
 
-[**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
+[**[Paper]**](https://arxiv.org/pdf/2302.05940) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+  - We propose SemanticAC, a semantics-assisted framework for Audio Classification to better leverage
+the semantic information.
 </div>
 </div>
 
