@@ -21,7 +21,7 @@
 <div class='paper-box-text' markdown="1">
 
 **Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models** \\
-Longxiang Tang, Zhuotao Tian, Kai Li, Chunming He, **Hantao Zhou**, Hengshuang Zhao, Xiu Li, Jiaya Jia
+Longxiang Tang, Zhuotao Tian, Kai Li, Chunming He, **Hantao Zhou**, Hengshuang Zhao, Xiu Li, Jiaya Jia \\
 European Conference on Computer Vision (ECCV), 2024
 
 [**[Paper]**](https://arxiv.org/pdf/2407.05342) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -36,7 +36,7 @@ European Conference on Computer Vision (ECCV), 2024
 <div class='paper-box-text' markdown="1">
 
 **SemanticAC: Semantics-Assisted Framework for Audio Classification** \\
-Yicheng Xiao, Yue Ma, Shuyan Li, **Hantao Zhou**, Ran Liao, Xiu Li
+Yicheng Xiao, Yue Ma, Shuyan Li, **Hantao Zhou**, Ran Liao, Xiu Li \\
 International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025
 
 [**[Paper]**](https://arxiv.org/pdf/2302.05940) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -53,7 +53,7 @@ the semantic information.
 <div class='paper-box-text' markdown="1">
 
 **UniHead: Unifying Multi-Perception for Detection Heads** \\
-**Hantao Zhou**, Rui Yang, Yachao Zhang, Haoran Duan, Yawen Huang, Runze Hu, Xiu Li, Yefeng Zheng
+**Hantao Zhou**, Rui Yang, Yachao Zhang, Haoran Duan, Yawen Huang, Runze Hu, Xiu Li, Yefeng Zheng \\
 IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024
 
 [**[Paper]**](https://arxiv.org/pdf/2309.13242) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -67,7 +67,7 @@ IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024
 <div class='paper-box-text' markdown="1">
 
 **Video Object Segmentation with Dynamic Query Modulation** \\
-**Hantao Zhou**, Runze Hu, Xiu Li
+**Hantao Zhou**, Runze Hu, Xiu Li \\
 International Conference on Multimedia and Expo (ICME), 2024
 
 [**[Paper]**](https://arxiv.org/pdf/2403.11529) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -81,7 +81,7 @@ International Conference on Multimedia and Expo (ICME), 2024
 <div class='paper-box-text' markdown="1">
 
 **ETDNet: Efficient Transformer-Based Detection Network for Surface Defect Detection** \\
-**Hantao Zhou**, Rui Yang, Runze Hu, Chang Shu, Xiaochu Tang, Xiu Li
+**Hantao Zhou**, Rui Yang, Runze Hu, Chang Shu, Xiaochu Tang, Xiu Li \\
 IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2022
 
 [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10227321) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
