@@ -12,8 +12,8 @@
   <div class='paper-box-text' style="width:100%; float:left;">
     <strong>Baidu ERNIE (文心一言), 2024.05 - 2024.12, Shenzhen.</strong> <br/>
     <ul>
-    - <em>Topic</em>: Multimodal Large Language Model Pre-training <br/>
-    - <em>Job Description</em>: I develop Multimodal Large Language Model (MLLM) for ERNIE Bot. Specifically, I focus on <strong>video MLLM pre-training</strong>, involving video, image, audio, and language modalities.
+    <li> <em>Topic</em>: Multimodal Large Language Model Pre-training <br/> </li>
+    <li> <em>Job Description</em>: I develop Multimodal Large Language Model (MLLM) for ERNIE Bot. Specifically, I focus on <strong>video MLLM pre-training</strong>, involving video, image, audio, and language modalities. </li>
     </ul>
   </div>
   <div style="clear:both;"></div>
