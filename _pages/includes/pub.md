@@ -37,7 +37,7 @@ European Conference on Computer Vision (ECCV), 2024
 
 **SemanticAC: Semantics-Assisted Framework for Audio Classification** \\
 Yicheng Xiao, Yue Ma, Shuyan Li, **Hantao Zhou**, Ran Liao, Xiu Li \\
-International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023
 
 [**[Paper]**](https://arxiv.org/pdf/2302.05940) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
