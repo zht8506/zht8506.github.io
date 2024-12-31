@@ -47,7 +47,7 @@ the semantic information.
 </div>
 
 
-## Detection & Segmentation
+## Detection and Segmentation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/unihead_module.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
