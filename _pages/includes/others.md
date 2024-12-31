@@ -28,7 +28,7 @@
   <strong>Tencent Youtu, 2024.03 - 2024.05, Shenzhen.</strong> <br/>
   <ul>
   <li> <em>Topic</em>: Multimodal Large Language Model Pre-training </li>
-  <li> <em>Job Description</em>: I work on Multimodal Large Language Model based on **discrete coding**. </li>
+  <li> <em>Job Description</em>: I work on Multimodal Large Language Model based on <em>discrete coding</em>. </li>
   </ul>
 </div>
 </div>
