@@ -18,6 +18,17 @@
   <div style="clear:both;"></div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image' style="width:30%; float:left; margin-right:10px;">
+    <div><img src='images/youtu.jpg' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' style="width:90%; float:left;">
+
+**- **Tencent Youtu, 2024.03 - 2024.05, Shenzhen.** \\
+- *Topic*: Multimodal Large Language Model Pre-training
+- *Job Description*: I work on Multimodal Large Language Model based on **discrete coding**.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/youtu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
