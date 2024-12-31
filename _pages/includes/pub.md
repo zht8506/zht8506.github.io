@@ -60,7 +60,7 @@ the semantic information.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2021</div><img src='images/qmvos.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/qmvos.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Video Object Segmentation with Dynamic Query Modulation** \\
@@ -73,11 +73,13 @@ Longxiang Tang, Zhuotao Tian, Kai Li, Chunming He, **Hantao Zhou**, Hengshuang Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2021</div><img src='images/etdnet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/etdnet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ETDNet: Efficient Transformer-Based Detection Network for Surface Defect Detection** \\
 **Hantao Zhou**, Rui Yang, Runze Hu, Chang Shu, Xiaochu Tang, Xiu Li
+IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2022
+
 
 [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10227321) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Code]**](https://github.com/zht8506/ETDNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
