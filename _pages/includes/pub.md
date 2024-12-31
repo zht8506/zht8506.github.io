@@ -11,7 +11,7 @@
 [**[Paper]**](https://arxiv.org/pdf/2406.01069) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Code&Dataset]**](https://github.com/zht8506/UniQA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- UniQA is a foundational multimodal image assessment model that supports image quality and aesthetic assessment tasks. It demonstrates strong generalization on various scenes, including natural images, AIGC images, and medical images.
+- UniQA is a foundational multimodal image assessment model that supports image quality and aesthetic assessment tasks and generalizes well to natural images, AIGC images, and medical images.
 - We generate multimodal dataset via multimodal large language model and pretrain CLIP on authentic and synthetic data.
 </div>
 </div>
