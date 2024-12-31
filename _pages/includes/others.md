@@ -5,7 +5,7 @@
 
 # 💻 Internships
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/baidu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="width: 50%; height: 50%;"><div class='paper-box-image'><div><img src='images/baidu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Baidu ERNIE (文心一言), 2024.05 - 2024.12, Shenzhen.** \\
