@@ -23,7 +23,7 @@
   <div class='paper-box-image' style="width:30%; float:left; margin-right:10px;">
     <div><img src='images/youtu.jpg' alt="sym" width="100%"></div>
   </div>
-  <div class='paper-box-text' style="width:90%; float:left;">
+  <div class='paper-box-text' style="width:100%; float:left;">
 
   <strong>Tencent Youtu, 2024.03 - 2024.05, Shenzhen.</strong> <br/>
   - <em>Topic</em>: Multimodal Large Language Model Pre-training <br/>
@@ -37,7 +37,7 @@
   <div class='paper-box-image' style="width:30%; float:left; margin-right:10px;">
     <div><img src='images/dji.jpg' alt="sym" width="100%"></div>
   </div>
-  <div class='paper-box-text' style="width:90%; float:left;">
+  <div class='paper-box-text' style="width:100%; float:left;">
 
   <strong>DJI Automotive, 2023.10 - 2024.02, Shenzhen.</strong> <br/>
   - <em>Topic</em>: Multimodal Image-Text Pre-training <br/>
@@ -49,7 +49,7 @@
   <div class='paper-box-image' style="width:30%; float:left; margin-right:10px;">
     <div><img src='images/tencent.jpg' alt="sym" width="100%"></div>
   </div>
-  <div class='paper-box-text' style="width:90%; float:left;">
+  <div class='paper-box-text' style="width:100%; float:left;">
 
   <strong>Tencent, 2023.03 - 2023.07, Shenzhen.</strong> <br/>
   - <em>Topic</em>: Text to Image Generation (AIGC) <br/>
