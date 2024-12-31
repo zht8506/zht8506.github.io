@@ -9,7 +9,7 @@
 **Hantao Zhou**, Longxiang Tang, Rui Yang, Guanyi Qin, Yan Zhang, Runze Hu, Xiu Li
 
 [**[Paper]**](https://arxiv.org/pdf/2406.01069) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**[Code&Dataset]**](https://github.com/zht8506/UniQA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/zht8506/UniQA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - UniQA is a foundational multimodal image assessment model that supports image quality and aesthetic assessment tasks and generalizes well to natural images, AIGC images, and medical images, etc.
 - We generate multimodal dataset via multimodal large language model and pretrain CLIP on authentic and synthetic data.
@@ -24,7 +24,7 @@
 Longxiang Tang, Zhuotao Tian, Kai Li, Chunming He, **Hantao Zhou**, Hengshuang Zhao, Xiu Li, Jiaya Jia
 
 [**[Paper]**](https://arxiv.org/pdf/2407.05342) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**[Code&Dataset]**](https://github.com/lloongx/DIKI) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/lloongx/DIKI) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
   - We propose the Distributionaware Interference-free Knowledge Integration (DIKI) framework to retain pre-trained knowledge of in continual learning of Vision-Language Models (VLMs).
 </div>
@@ -54,7 +54,7 @@ the semantic information.
 **Hantao Zhou**, Rui Yang, Yachao Zhang, Haoran Duan, Yawen Huang, Runze Hu, Xiu Li, Yefeng Zheng
 
 [**[Paper]**](https://arxiv.org/pdf/2309.13242) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**[Code&Dataset]**](https://github.com/zht8506/UniHead) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/zht8506/UniHead) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
   - UniHead unifies various perceptions in a single detection head via novel attention modules, which can enhance the performance of many classical detectors on both object detection and segmentation tasks.
 </div>
@@ -67,7 +67,7 @@ the semantic information.
 Longxiang Tang, Zhuotao Tian, Kai Li, Chunming He, **Hantao Zhou**, Hengshuang Zhao, Xiu Li, Jiaya Jia
 
 [**[Paper]**](https://arxiv.org/pdf/2407.05342) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**[Code&Dataset]**](https://github.com/lloongx/DIKI) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/lloongx/DIKI) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
   - We propose the Distributionaware Interference-free Knowledge Integration (DIKI) framework to retain pre-trained knowledge of in continual learning of Vision-Language Models (VLMs).
 </div>
@@ -80,7 +80,7 @@ Longxiang Tang, Zhuotao Tian, Kai Li, Chunming He, **Hantao Zhou**, Hengshuang Z
 **Hantao Zhou**, Rui Yang, Runze Hu, Chang Shu, Xiaochu Tang, Xiu Li
 
 [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10227321) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**[Code&Dataset]**](https://github.com/zht8506/ETDNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/zht8506/ETDNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
   - We propose the Efficient Transformer-Based Detection Network (ETDNet) for defect detection, which includes variety of novel Transformer-based module designs to improve the detection performance.
 </div>
