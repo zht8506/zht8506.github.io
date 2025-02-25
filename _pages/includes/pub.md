@@ -91,4 +91,6 @@ IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2022
 </div>
 </div>
 
+**Patent**: [CN118607611A](https://patents.google.com/patent/CN118607611A)
+
 
