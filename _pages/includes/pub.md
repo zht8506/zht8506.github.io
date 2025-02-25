@@ -91,8 +91,9 @@ IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2022
 </div>
 </div>
 
+
 **Patent**: 
 - [用于图像质量和美学评价的统一视觉语言模型预训练和调整方法
-](https://patents.google.com/patent/CN118607611A)，李秀，**周涵涛**
+](https://patents.google.com/patent/CN118607611A), 李秀, **周涵涛**
 
 
