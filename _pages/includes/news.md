@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06*: I graduated from Tsinghua University and received the honor of "**Outstanding Graduate of Tsinghua University**" (Top 2%).
 - *2025.03*: One paper about underwater acoustic learning is accepted by **Pattern Recognition**.
 - *2024.07*: One paper about multimodal learning is accepted by **ECCV 2024**.
 - *2024.05*: I join **Baidu ERNIE**, working on multimodal large language models.
