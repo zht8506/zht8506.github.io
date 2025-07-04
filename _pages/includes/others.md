@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2022.09 - Now*, Master, Tsinghua University, Shenzhen.
+- *2022.09 - 2025.06*, Master, Tsinghua University, Shenzhen.
 - *2018.09 - 2022.06*, Bachelor, Xidian University, Xian.
 
 # 💻 Internships
