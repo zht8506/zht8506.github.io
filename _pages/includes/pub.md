@@ -5,8 +5,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/gamma.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment** \\
-**Hantao Zhou**, Longxiang Tang, Rui Yang, Guanyi Qin, Yan Zhang, Runze Hu, Xiu Li
+**Gamma: Toward Generic Image Assessment with Mixture of Assessment Experts** \\
+**Hantao Zhou**, Rui Yang, Longxiang Tang, Guanyi Qin, Runze Hu, Xiu Li
 
 [**[Paper]**](https://arxiv.org/pdf/2503.06678) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Code]**](https://github.com/zht8506/Assess-Any-Image) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
