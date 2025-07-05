@@ -8,11 +8,10 @@
 **UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment** \\
 **Hantao Zhou**, Longxiang Tang, Rui Yang, Guanyi Qin, Yan Zhang, Runze Hu, Xiu Li
 
-[**[Paper]**](https://arxiv.org/pdf/2406.01069) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**[Code]**](https://github.com/zht8506/UniQA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Paper]**](https://arxiv.org/pdf/2503.06678) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/zht8506/Assess-Any-Image) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- UniQA is a foundational multimodal image assessment model that supports image quality and aesthetic assessment tasks and generalizes well to natural images, AIGC images, and medical images, etc.
-- We generate multimodal dataset via multimodal large language model and pretrain CLIP on authentic and synthetic data.
+- Gamma is a general image assessment model that can be applied to natural image, underwater image, AIGC image and face image assessment, etc.
 </div>
 </div>
 
