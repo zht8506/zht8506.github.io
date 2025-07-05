@@ -1,4 +1,5 @@
 # 🔥 News
+- [*2025.07*] One paper about generic image quality assessment is accepted by **ACMMM 2025**.
 - [*2025.06*] I received the honor of "**Outstanding Graduate of Tsinghua University**" (Top 1%).
 - [*2025.03*] One paper about underwater acoustic learning is accepted by **Pattern Recognition**.
 - [*2024.07*] One paper about multimodal learning is accepted by **ECCV 2024**.
