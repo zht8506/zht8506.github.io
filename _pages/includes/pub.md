@@ -8,6 +8,7 @@
 **Gamma: Toward Generic Image Assessment with Mixture of Assessment Experts** \\
 **Hantao Zhou**, Rui Yang, Longxiang Tang, Guanyi Qin, Runze Hu, Xiu Li \\
 ACM Multimedia (ACM MM), 2025
+
 [**[Paper]**](https://arxiv.org/pdf/2503.06678) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Code]**](https://github.com/zht8506/Assess-Any-Image) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
