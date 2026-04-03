@@ -27,7 +27,7 @@ Journal Reviewer: International Journal of Computer Vision (IJCV)
   <div class='paper-box-image' style="width:25%; float:left; margin-right:10px;">
     <div><img src='images/youtu.jpg' alt="sym" width="100%"></div>
   </div>
-  <div class='paper-box-text' style="width:100%; float:left;">
+  <div class='paper-box-text'>
 
   <strong>Tencent Youtu, 2024.03 - 2024.05, Shenzhen.</strong> <br/>
   <ul>
@@ -43,7 +43,7 @@ Journal Reviewer: International Journal of Computer Vision (IJCV)
   <div class='paper-box-image' style="width:25%; float:left; margin-right:10px;">
     <div><img src='images/dji.jpg' alt="sym" width="100%"></div>
   </div>
-  <div class='paper-box-text' style="width:100%; float:left;">
+  <div class='paper-box-text'>
 
   <strong>DJI Automotive, 2023.10 - 2024.02, Shenzhen.</strong> <br/>
   <ul>
@@ -57,7 +57,7 @@ Journal Reviewer: International Journal of Computer Vision (IJCV)
   <div class='paper-box-image' style="width:25%; float:left; margin-right:10px;">
     <div><img src='images/tencent.jpg' alt="sym" width="100%"></div>
   </div>
-  <div class='paper-box-text' style="width:100%; float:left;">
+  <div class='paper-box-text'>
 
   <strong>Tencent, 2023.03 - 2023.07, Shenzhen.</strong> <br/>
   <ul>
