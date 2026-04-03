@@ -10,10 +10,10 @@ Journal Reviewer: International Journal of Computer Vision (IJCV)
 # 💻 Internships
 
 <div class='paper-box'>
-  <div class='paper-box-image' style="width:20%; float:left; margin-right:10px;">
+  <div class='paper-box-image' style="width:25%; float:left; margin-right:10px;">
     <div><img src='images/baidu.jpg' alt="sym" width="100%"></div>
   </div>
-  <div class='paper-box-text' style="width:100%; float:left;">
+  <div class='paper-box-text'>
     <strong>Baidu ERNIE (文心一言), 2024.05 - 2024.12, Shenzhen.</strong> <br/>
     <ul>
     <li> <em>Topic</em>: Multimodal Large Language Model Pre-training </li>
@@ -24,7 +24,7 @@ Journal Reviewer: International Journal of Computer Vision (IJCV)
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image' style="width:20%; float:left; margin-right:10px;">
+  <div class='paper-box-image' style="width:25%; float:left; margin-right:10px;">
     <div><img src='images/youtu.jpg' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' style="width:100%; float:left;">
@@ -40,7 +40,7 @@ Journal Reviewer: International Journal of Computer Vision (IJCV)
 
 
 <div class='paper-box'>
-  <div class='paper-box-image' style="width:30%; float:left; margin-right:10px;">
+  <div class='paper-box-image' style="width:25%; float:left; margin-right:10px;">
     <div><img src='images/dji.jpg' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' style="width:100%; float:left;">
@@ -54,7 +54,7 @@ Journal Reviewer: International Journal of Computer Vision (IJCV)
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image' style="width:30%; float:left; margin-right:10px;">
+  <div class='paper-box-image' style="width:25%; float:left; margin-right:10px;">
     <div><img src='images/tencent.jpg' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' style="width:100%; float:left;">
