@@ -10,7 +10,7 @@ Journal Reviewer: International Journal of Computer Vision (IJCV)
 # 💻 Internships
 
 <div class='paper-box'>
-  <div class='paper-box-image' style="width:25%; float:left; margin-right:0px;">
+  <div class='paper-box-image' style="width:25%; float:left; margin-right:10px;">
     <div><img src='images/baidu.jpg' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text'>
